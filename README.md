@@ -1,7 +1,7 @@
 # Mimicking-the-Mind-s-Eye
 AI-Driven Methodologies for Rorschach-Inspired Image Interpretation
-![DALL·E 2023-11-29 23 10 58 - A Rorschach inkblot design featuring elements of a red crab and a red and pink flower, set against a white background that subtly transitions to a whi](https://github.com/heathbrew/Mimicking-the-Mind-s-Eye/assets/55629425/fb159d12-f9f8-449e-b514-b435e78bda28)
-![DALL·E 2023-11-29 23 11 06 - A painting featuring a red crab holding a red and pink flower in its claw, set against a white background  The crab's face is detailed and prominent, ](https://github.com/heathbrew/Mimicking-the-Mind-s-Eye/assets/55629425/bd8236f5-9f00-401c-b6b4-7d3de4f53a5c)
+![DALL·E 2023-11-29 23 10 58 - A Rorschach inkblot design featuring elements of a red crab and a red and pink flower, set against a white background that subtly transitions to a whi - Copy](https://github.com/heathbrew/Mimicking-the-Mind-s-Eye/assets/55629425/7ccf2745-23c0-422c-a000-204e26fe160a)
+
 
 
 Welcome to the Image Description Generation repository! Here, we present a comprehensive approach to generating detailed image descriptions using advanced artificial intelligence (AI) models. This methodology draws inspiration from the principles of the Rorschach Test, merging image captioning models with Visual Question Answering (VQA) systems to extract and combine detailed descriptions.
