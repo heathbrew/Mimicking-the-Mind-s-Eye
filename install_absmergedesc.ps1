@@ -10,6 +10,7 @@ pip install openai==0.28
 pip install setuptools
 pip install llama-cpp-python
 pip install llama-index
+pip install --upgrade llama-index-core
 pip install transformers
 pip install langchain
 pip install torch
